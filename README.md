@@ -21,3 +21,7 @@
 # 前端学习路线图
 
 ![image](https://github.com/biao-code/study-path/blob/59813c5879ca1bbb1997afb6512085993162f1cb/%E5%89%8D%E7%AB%AF/front-end-study-path.png)
+
+# 备注
+
+路线图借鉴了：[roadmap](https://roadmap.sh/)，在原版基础上翻译并添加了国内流行的内容。
